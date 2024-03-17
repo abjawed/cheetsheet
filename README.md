@@ -3,6 +3,7 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 
 ### Devops CheetSheet
+[Devops](https://cheatography.com/tag/devops/)
 [Pyhton](http://quickref.me/python)
 [Git](https://cheatography.com/itsellej/cheat-sheets/git-commands/)
 [Bash](http://devhints.io/bash)
