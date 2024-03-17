@@ -4,14 +4,13 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 ### Devops CheetSheet
 [Pyhton](http://quickref.me/python)
-[Git](https://lnkd.in/d99THGH4)
+[Git](https://cheatography.com/itsellej/cheat-sheets/git-commands/)
 [Bash](http://devhints.io/bash)
 [Vim](http://vim.rtorr.com)
-[Linux](https://lnkd.in/dGSj2cQn)
-[Docker](https://lnkd.in/dJZX4rmX)
-[Kubernetes](https://lnkd.in/d35aCSqY)
-[Terraform](https://lnkd.in/dAV9haxP)
-[AWS](https://lnkd.in/dCCCCw9J)
+[Linux](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+[Docker](dockerlabs.collabnix.com/docker/cheatsheet)
+[Kubernetes](https://github.com/rohitg00/DevOps_Books/blob/main/Kubernetes%20Cheat%20Sheet.pdf)
+[Terraform]([https://lnkd.in/dAV9haxP](https://github.com/rohitg00/DevOps_Books/blob/main/1622257225661.pdf))
 [DevOps](http://DevOpsCommunity.in)
 
 
