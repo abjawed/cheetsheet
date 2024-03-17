@@ -32,3 +32,5 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 #### Interview
 [Devops-Exercises](https://github.com/bregman-arie/devops-exercises)
+[the-book-of-secret-knowledge ](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#gui-tools-toc)
+[scalability](https://github.com/binhnguyennus/awesome-scalability)
