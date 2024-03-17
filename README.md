@@ -3,8 +3,8 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 
 ### Devops CheetSheet
-[Pyhton](http://quickref.me/python)
-[Git](https://lnkd.in/d99THGH4)
+[Pyhton](http://quickref.me/python/).
+[Git](https://lnkd.in/d99THGH4/).
 [Bash](http://devhints.io/bash)
 [Vim](http://vim.rtorr.com)
 [Linux](https://lnkd.in/dGSj2cQn)
