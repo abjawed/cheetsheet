@@ -4,6 +4,6 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 ### Devops CheetSheet
 
-http://quickref.me/python
+[](http://quickref.me/python).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
