@@ -31,4 +31,4 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 [kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 
 #### Interview
-[Interview](https://github.com/bregman-arie/devops-exercises)
+[Devops-Exercises](https://github.com/bregman-arie/devops-exercises)
