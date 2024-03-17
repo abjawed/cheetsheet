@@ -3,8 +3,8 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 
 ### Devops CheetSheet
-[Pyhton](http://quickref.me/python)
-[Git](https://cheatography.com/itsellej/cheat-sheets/git-commands/)
+![Pyhton](http://quickref.me/python)
+![Git](https://cheatography.com/itsellej/cheat-sheets/git-commands/)
 [Bash](http://devhints.io/bash)
 [Vim](http://vim.rtorr.com)
 [Linux](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
@@ -20,3 +20,5 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 
 ### Quick Reference
 [kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+
+
