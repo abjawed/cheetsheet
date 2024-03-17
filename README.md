@@ -10,7 +10,7 @@ I have compiled cheat sheets from multiple internet sources and consolidated the
 [Linux](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 [Docker](dockerlabs.collabnix.com/docker/cheatsheet)
 [Kubernetes](https://github.com/rohitg00/DevOps_Books/blob/main/Kubernetes%20Cheat%20Sheet.pdf)
-[Terraform]([https://lnkd.in/dAV9haxP](https://github.com/rohitg00/DevOps_Books/blob/main/1622257225661.pdf))
+[Terraform](https://github.com/rohitg00/DevOps_Books/blob/main/1622257225661.pdf)
 [DevOps](http://DevOpsCommunity.in)
 
 
